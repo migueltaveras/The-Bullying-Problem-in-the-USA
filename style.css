@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#h1 {
+size: 50px;
+  
+}
+#p{
+
+  font-family: Times 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+
+#h3 {
+font-size: 35px;
+  
+}
+#div {
+display: flex;
+justify-content: center;
+}
